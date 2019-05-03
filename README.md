@@ -37,3 +37,23 @@ define('APP_DB_PWD', 'your_db_password');
 ![Simple MVC.png](https://raw.githubusercontent.com/WildCodeSchool/simple-mvc/master/Simple%20-%20MVC.png)
 
 03/07/2018 @wildcodeschool.fr
+
+## Atelier MVC
+
+* Créer une HomePage en mode Dashboard
+    * Vous devez créer un VotreprenomController
+    * Vous devez créer une vue du nom de index.html.twig
+* Créer une table fruit
+* Créer un onglet Administration des fruits
+    * Un Controller
+        * Créer toutes les méthodes d'un CRUD (Create, Read, Update, Delete)
+    * Un Manager
+            * Créer toutes les méthodes d'un CRUD (Insert, Select, Update, Delete)
+    * Les vues suivantes :
+        * List
+            * Ajouter une option DELETE
+        * Edit
+        * Add
+        * Show
+
+03/05/2019 @wildcodeschool.fr
