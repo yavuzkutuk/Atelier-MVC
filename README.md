@@ -55,5 +55,10 @@ define('APP_DB_PWD', 'your_db_password');
         * Edit
         * Add
         * Show
+        
+Ce qui attendu (minimun) : 
+    * 2 controllers
+    * 1 manager
+    * 5 vues
 
 03/05/2019 @wildcodeschool.fr
