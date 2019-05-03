@@ -56,7 +56,8 @@ define('APP_DB_PWD', 'your_db_password');
         * Add
         * Show
         
-Ce qui attendu (minimun) : 
+## Ce qui attendu (minimun) : 
+
     * 2 controllers
     * 1 manager
     * 5 vues
