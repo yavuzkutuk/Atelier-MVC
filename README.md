@@ -41,14 +41,14 @@ define('APP_DB_PWD', 'your_db_password');
 ## Atelier MVC
 
 * Créer une HomePage en mode Dashboard
-    * Vous devez créer un VotreprenomController
+    * Vous devez créer controller du type VotreprenomController
     * Vous devez créer une vue du nom de index.html.twig
 * Créer une table fruit
 * Créer un onglet Administration des fruits
     * Un Controller
         * Créer toutes les méthodes d'un CRUD (Create, Read, Update, Delete)
     * Un Manager
-            * Créer toutes les méthodes d'un CRUD (Insert, Select, Update, Delete)
+        * Créer toutes les méthodes d'un CRUD (Insert, Select, Update, Delete)
     * Les vues suivantes :
         * List
             * Ajouter une option DELETE
